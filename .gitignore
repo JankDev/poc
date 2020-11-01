@@ -1,2 +1,5 @@
 *.png
 *.py
+*.bmp
+*.jpg
+.idea/
